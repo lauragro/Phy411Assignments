@@ -1,0 +1,23 @@
+School	Longitude	Latitude	Elevation
+Saturna_Elementary	236.827	48.794	8
+Mayne_Island	236.718	48.848	30
+Galiano_Island_Community	236.666	48.886	36
+Victor_Brodeur	236.598	48.432	40
+Salt_Spring	236.497	48.855	15
+Fernwood_Elementary	236.461	48.907	55
+Fulford_Elementary	236.553	48.777	75
+Gulf_Islands_Secondary	236.493	48.855	25
+Phoenix_Elementary	236.494	48.830	28
+Vancouver_Island_University	236.031	49.157	116
+Seaview_Elementary	235.923	49.250	35
+St._Patrick's_Elementary	236.676	48.433	22
+Quamichan_Middle	236.305	48.786	16
+Cowichan_Valley_Open_Learning_Cooperative	236.284	48.785	34
+John_Stubbs_Memorial	236.537	48.436	60
+G.R._Paine_Horticulteral_Training_Centre	235.992	49.182	90
+Glenlyon_Norfolk_Junior	236.693		48.429		5
+Monterey_Middle	236.686	48.418	12
+Rogers_Elementary	236.619	48.474	49
+
+
+
